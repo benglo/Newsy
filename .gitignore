@@ -19,6 +19,7 @@
 .env.production.local
 .vscode
 .idea
+/Newsy-6947281984248cfab65d2ff631deae5afce3ff7e
 
 npm-debug.log*
 yarn-debug.log*
